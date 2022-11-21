@@ -1,0 +1,9 @@
+#list-item{
+    background-color: tomato;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    border: 3px solid lightblue;
+    width: 60%;
+    margin: auto;
+}
